@@ -10,7 +10,7 @@ jobs:
       pull-requests: write
     steps:
     - uses: actions/first-interaction@v1
-    - with:
+      with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: 'Hi! Please make sure to check that this issue does not already exist. If it does, then please delete it.'
         pr-message: 'Hi! Please remember to check CONTRIBUTING.md if you haven't already for contribution guidelines. Thanks for helping!'
