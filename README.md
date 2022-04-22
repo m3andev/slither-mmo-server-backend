@@ -5,4 +5,4 @@ No wiki currently available, contributions will be closed until the project is i
 Terms of use coming soon.
 
 ## Server Structure
-![Server Structure](/assets/images/Map.jpeg)
+![Server Structure](https://docs.google.com/drawings/d/1Aqmm9brmk7MMqqKdCk-zjlPZEPiWjmxBPdEXLYuj00Q/edit?usp=sharing)
