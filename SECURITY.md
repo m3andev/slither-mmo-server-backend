@@ -14,5 +14,5 @@ Damage caused by prior unsupported versions is your responsibility.
 
 ## Reporting a Vulnerability
 
-Security vulnerabilities should be reported in the **issues tab** with the **SECURITY** tag.
+Security vulnerabilities should be reported in the ![issues](https://github.com/m3andev/slither-mmo-server-backend/issues) tab with the **SECURITY** tag.
 If no response is made within 24 hours by a collaborator then please directly contact one.
